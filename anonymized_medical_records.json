@@ -1,0 +1,3202 @@
+[
+  {
+    "record_id": 1,
+    "patient_id": "D-1761",
+    "age": 35,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-09",
+    "medical_note": "Patient D-1761, 35yo Female with Type 2 Diabetes. Presents with blurred vision. HbA1c: 8.4%, Glucose: 195 mg/dL, BP: 129/86. discontinued Glipizide. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.4,
+      "glucose": 195,
+      "blood_pressure": "129/86"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 2,
+    "patient_id": "D-5620",
+    "age": 48,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-06-12",
+    "medical_note": "Patient D-5620, 48yo Female with Prediabetes. Presents with slow healing cuts. HbA1c: 8.5%, Glucose: 271 mg/dL, BP: 125/74. added Sitagliptin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.5,
+      "glucose": 271,
+      "blood_pressure": "125/74"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 3,
+    "patient_id": "D-7273",
+    "age": 27,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-12-25",
+    "medical_note": "Patient D-7273, 27yo Male with Prediabetes. Presents with frequent urination. HbA1c: 8.7%, Glucose: 135 mg/dL, BP: 141/73. switched to Glipizide. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.7,
+      "glucose": 135,
+      "blood_pressure": "141/73"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 4,
+    "patient_id": "D-8269",
+    "age": 71,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-12-08",
+    "medical_note": "Patient D-8269, 71yo Female with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 11.7%, Glucose: 278 mg/dL, BP: 129/70. switched to Metformin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.7,
+      "glucose": 278,
+      "blood_pressure": "129/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 5,
+    "patient_id": "D-6893",
+    "age": 71,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-10",
+    "medical_note": "Patient D-6893, 71yo Female with Type 1 Diabetes. Presents with excessive thirst. HbA1c: 11.2%, Glucose: 215 mg/dL, BP: 140/72. switched to Glipizide. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.2,
+      "glucose": 215,
+      "blood_pressure": "140/72"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 6,
+    "patient_id": "D-9830",
+    "age": 33,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-03-10",
+    "medical_note": "Patient D-9830, 33yo Female with Prediabetes. Presents with fatigue. HbA1c: 6.2%, Glucose: 173 mg/dL, BP: 138/84. discontinued Insulin Glargine. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 6.2,
+      "glucose": 173,
+      "blood_pressure": "138/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 7,
+    "patient_id": "D-8253",
+    "age": 52,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-06-09",
+    "medical_note": "Patient D-8253, 52yo Female with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 6.9%, Glucose: 158 mg/dL, BP: 134/76. dosage increased for Empagliflozin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 6.9,
+      "glucose": 158,
+      "blood_pressure": "134/76"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 8,
+    "patient_id": "D-6029",
+    "age": 43,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-09-12",
+    "medical_note": "Patient D-6029, 43yo Male with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 9.8%, Glucose: 122 mg/dL, BP: 149/88. dosage decreased for Insulin Glargine. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 9.8,
+      "glucose": 122,
+      "blood_pressure": "149/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 9,
+    "patient_id": "D-4263",
+    "age": 28,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-12-21",
+    "medical_note": "Patient D-4263, 28yo Female with Type 1 Diabetes. Presents with frequent urination. HbA1c: 7.0%, Glucose: 226 mg/dL, BP: 134/75. started on Sitagliptin. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 7.0,
+      "glucose": 226,
+      "blood_pressure": "134/75"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 10,
+    "patient_id": "D-8316",
+    "age": 54,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-01-07",
+    "medical_note": "Patient D-8316, 54yo Female with Type 1 Diabetes. Presents with excessive thirst. HbA1c: 8.6%, Glucose: 190 mg/dL, BP: 139/87. discontinued Empagliflozin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.6,
+      "glucose": 190,
+      "blood_pressure": "139/87"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 11,
+    "patient_id": "D-9830",
+    "age": 69,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-05-09",
+    "medical_note": "Patient D-9830, 69yo Female with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 7.1%, Glucose: 175 mg/dL, BP: 131/77. added Glipizide. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.1,
+      "glucose": 175,
+      "blood_pressure": "131/77"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 12,
+    "patient_id": "D-8316",
+    "age": 71,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-08-08",
+    "medical_note": "Patient D-8316, 71yo Female with Type 1 Diabetes. Presents with blurred vision. HbA1c: 8.4%, Glucose: 285 mg/dL, BP: 131/75. dosage decreased for Metformin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.4,
+      "glucose": 285,
+      "blood_pressure": "131/75"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 13,
+    "patient_id": "D-1059",
+    "age": 35,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-10-27",
+    "medical_note": "Patient D-1059, 35yo Female with Type 2 Diabetes. Presents with blurred vision. HbA1c: 9.0%, Glucose: 300 mg/dL, BP: 146/70. added Sitagliptin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 9.0,
+      "glucose": 300,
+      "blood_pressure": "146/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 14,
+    "patient_id": "D-1582",
+    "age": 47,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-08-31",
+    "medical_note": "Patient D-1582, 47yo Female with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 11.2%, Glucose: 145 mg/dL, BP: 136/70. discontinued Insulin Glargine. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.2,
+      "glucose": 145,
+      "blood_pressure": "136/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 15,
+    "patient_id": "D-4734",
+    "age": 30,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-04-18",
+    "medical_note": "Patient D-4734, 30yo Male with Type 1 Diabetes. Presents with fatigue. HbA1c: 11.8%, Glucose: 225 mg/dL, BP: 146/90. dosage increased for Empagliflozin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.8,
+      "glucose": 225,
+      "blood_pressure": "146/90"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 16,
+    "patient_id": "D-5580",
+    "age": 56,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-01-08",
+    "medical_note": "Patient D-5580, 56yo Female with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 11.2%, Glucose: 281 mg/dL, BP: 126/83. added Glipizide. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.2,
+      "glucose": 281,
+      "blood_pressure": "126/83"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 17,
+    "patient_id": "D-2857",
+    "age": 25,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-02-22",
+    "medical_note": "Patient D-2857, 25yo Male with Prediabetes. Presents with frequent urination. HbA1c: 10.1%, Glucose: 192 mg/dL, BP: 125/95. started on Empagliflozin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.1,
+      "glucose": 192,
+      "blood_pressure": "125/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 18,
+    "patient_id": "D-8269",
+    "age": 57,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-11-13",
+    "medical_note": "Patient D-8269, 57yo Male with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 10.9%, Glucose: 128 mg/dL, BP: 121/87. dosage decreased for Sitagliptin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.9,
+      "glucose": 128,
+      "blood_pressure": "121/87"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 19,
+    "patient_id": "D-6029",
+    "age": 26,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-06-04",
+    "medical_note": "Patient D-6029, 26yo Male with Type 1 Diabetes. Presents with fatigue. HbA1c: 6.4%, Glucose: 266 mg/dL, BP: 110/89. dosage decreased for Metformin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.4,
+      "glucose": 266,
+      "blood_pressure": "110/89"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 20,
+    "patient_id": "D-8188",
+    "age": 58,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-10-12",
+    "medical_note": "Patient D-8188, 58yo Male with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 11.1%, Glucose: 155 mg/dL, BP: 137/71. added Empagliflozin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.1,
+      "glucose": 155,
+      "blood_pressure": "137/71"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 21,
+    "patient_id": "D-3031",
+    "age": 25,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-08-03",
+    "medical_note": "Patient D-3031, 25yo Female with Type 2 Diabetes. Presents with frequent urination. HbA1c: 10.8%, Glucose: 218 mg/dL, BP: 114/87. switched to Insulin Glargine. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 10.8,
+      "glucose": 218,
+      "blood_pressure": "114/87"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 22,
+    "patient_id": "D-1676",
+    "age": 30,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-12-17",
+    "medical_note": "Patient D-1676, 30yo Male with Type 1 Diabetes. Presents with fatigue. HbA1c: 11.8%, Glucose: 154 mg/dL, BP: 136/91. added Glipizide. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.8,
+      "glucose": 154,
+      "blood_pressure": "136/91"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 23,
+    "patient_id": "D-6029",
+    "age": 58,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-05-14",
+    "medical_note": "Patient D-6029, 58yo Female with Prediabetes. Presents with frequent urination. HbA1c: 11.5%, Glucose: 252 mg/dL, BP: 131/84. switched to Sitagliptin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.5,
+      "glucose": 252,
+      "blood_pressure": "131/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 24,
+    "patient_id": "D-6029",
+    "age": 65,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-04-13",
+    "medical_note": "Patient D-6029, 65yo Female with Prediabetes. Presents with frequent urination. HbA1c: 11.0%, Glucose: 296 mg/dL, BP: 135/92. started on Metformin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 11.0,
+      "glucose": 296,
+      "blood_pressure": "135/92"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 25,
+    "patient_id": "D-7273",
+    "age": 64,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-12-11",
+    "medical_note": "Patient D-7273, 64yo Male with Type 2 Diabetes. Presents with frequent urination. HbA1c: 9.8%, Glucose: 213 mg/dL, BP: 137/82. started on Glipizide. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 9.8,
+      "glucose": 213,
+      "blood_pressure": "137/82"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 26,
+    "patient_id": "D-7295",
+    "age": 55,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-07-18",
+    "medical_note": "Patient D-7295, 55yo Female with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 6.9%, Glucose: 249 mg/dL, BP: 114/94. added Glipizide. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.9,
+      "glucose": 249,
+      "blood_pressure": "114/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 27,
+    "patient_id": "D-8316",
+    "age": 50,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-12-23",
+    "medical_note": "Patient D-8316, 50yo Female with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 8.2%, Glucose: 275 mg/dL, BP: 114/76. added Metformin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.2,
+      "glucose": 275,
+      "blood_pressure": "114/76"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 28,
+    "patient_id": "D-7295",
+    "age": 48,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-05-08",
+    "medical_note": "Patient D-7295, 48yo Male with Type 1 Diabetes. Presents with fatigue. HbA1c: 6.8%, Glucose: 147 mg/dL, BP: 135/92. dosage decreased for Insulin Glargine. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 6.8,
+      "glucose": 147,
+      "blood_pressure": "135/92"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 29,
+    "patient_id": "D-5193",
+    "age": 32,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-11-19",
+    "medical_note": "Patient D-5193, 32yo Female with Type 1 Diabetes. Presents with excessive thirst. HbA1c: 7.8%, Glucose: 207 mg/dL, BP: 133/79. dosage decreased for Insulin Glargine. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.8,
+      "glucose": 207,
+      "blood_pressure": "133/79"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 30,
+    "patient_id": "D-6467",
+    "age": 80,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-08-11",
+    "medical_note": "Patient D-6467, 80yo Male with Type 1 Diabetes. Presents with blurred vision. HbA1c: 8.7%, Glucose: 232 mg/dL, BP: 110/81. started on Sitagliptin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.7,
+      "glucose": 232,
+      "blood_pressure": "110/81"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 31,
+    "patient_id": "D-4734",
+    "age": 38,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-16",
+    "medical_note": "Patient D-4734, 38yo Female with Type 2 Diabetes. Presents with unexplained weight loss. HbA1c: 11.6%, Glucose: 226 mg/dL, BP: 129/84. dosage decreased for Empagliflozin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.6,
+      "glucose": 226,
+      "blood_pressure": "129/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 32,
+    "patient_id": "D-7040",
+    "age": 78,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-12-05",
+    "medical_note": "Patient D-7040, 78yo Male with Prediabetes. Presents with fatigue. HbA1c: 6.0%, Glucose: 169 mg/dL, BP: 130/95. discontinued Glipizide. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.0,
+      "glucose": 169,
+      "blood_pressure": "130/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 33,
+    "patient_id": "D-9867",
+    "age": 49,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-08-02",
+    "medical_note": "Patient D-9867, 49yo Female with Prediabetes. Presents with blurred vision. HbA1c: 6.5%, Glucose: 261 mg/dL, BP: 127/75. started on Empagliflozin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 6.5,
+      "glucose": 261,
+      "blood_pressure": "127/75"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 34,
+    "patient_id": "D-8269",
+    "age": 66,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-08-03",
+    "medical_note": "Patient D-8269, 66yo Male with Prediabetes. Presents with excessive thirst. HbA1c: 8.5%, Glucose: 122 mg/dL, BP: 110/93. discontinued Empagliflozin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.5,
+      "glucose": 122,
+      "blood_pressure": "110/93"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 35,
+    "patient_id": "D-5580",
+    "age": 46,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-11-08",
+    "medical_note": "Patient D-5580, 46yo Male with Prediabetes. Presents with tingling in hands/feet. HbA1c: 10.5%, Glucose: 274 mg/dL, BP: 121/74. discontinued Insulin Glargine. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.5,
+      "glucose": 274,
+      "blood_pressure": "121/74"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 36,
+    "patient_id": "D-5135",
+    "age": 48,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-11-14",
+    "medical_note": "Patient D-5135, 48yo Female with Type 1 Diabetes. Presents with blurred vision. HbA1c: 8.5%, Glucose: 145 mg/dL, BP: 125/79. started on Glipizide. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 8.5,
+      "glucose": 145,
+      "blood_pressure": "125/79"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 37,
+    "patient_id": "D-6467",
+    "age": 35,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-01-15",
+    "medical_note": "Patient D-6467, 35yo Male with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 11.5%, Glucose: 254 mg/dL, BP: 130/95. started on Sitagliptin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.5,
+      "glucose": 254,
+      "blood_pressure": "130/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 38,
+    "patient_id": "D-8828",
+    "age": 75,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-05-05",
+    "medical_note": "Patient D-8828, 75yo Female with Prediabetes. Presents with tingling in hands/feet. HbA1c: 7.4%, Glucose: 276 mg/dL, BP: 145/91. switched to Empagliflozin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.4,
+      "glucose": 276,
+      "blood_pressure": "145/91"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 39,
+    "patient_id": "D-8316",
+    "age": 52,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-04-06",
+    "medical_note": "Patient D-8316, 52yo Female with Type 2 Diabetes. Presents with fatigue. HbA1c: 8.5%, Glucose: 136 mg/dL, BP: 113/93. discontinued Metformin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.5,
+      "glucose": 136,
+      "blood_pressure": "113/93"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 40,
+    "patient_id": "D-8188",
+    "age": 79,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-02-08",
+    "medical_note": "Patient D-8188, 79yo Female with Type 2 Diabetes. Presents with unexplained weight loss. HbA1c: 7.7%, Glucose: 154 mg/dL, BP: 144/82. added Glipizide. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.7,
+      "glucose": 154,
+      "blood_pressure": "144/82"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 41,
+    "patient_id": "D-1858",
+    "age": 69,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-07-16",
+    "medical_note": "Patient D-1858, 69yo Male with Prediabetes. Presents with fatigue. HbA1c: 11.9%, Glucose: 266 mg/dL, BP: 147/94. added Empagliflozin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.9,
+      "glucose": 266,
+      "blood_pressure": "147/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 42,
+    "patient_id": "D-8253",
+    "age": 64,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-10-13",
+    "medical_note": "Patient D-8253, 64yo Male with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 10.6%, Glucose: 112 mg/dL, BP: 146/89. started on Empagliflozin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.6,
+      "glucose": 112,
+      "blood_pressure": "146/89"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 43,
+    "patient_id": "D-8210",
+    "age": 38,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-03-26",
+    "medical_note": "Patient D-8210, 38yo Female with Prediabetes. Presents with unexplained weight loss. HbA1c: 7.7%, Glucose: 276 mg/dL, BP: 126/91. added Empagliflozin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.7,
+      "glucose": 276,
+      "blood_pressure": "126/91"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 44,
+    "patient_id": "D-2276",
+    "age": 33,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-06-11",
+    "medical_note": "Patient D-2276, 33yo Male with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 5.6%, Glucose: 240 mg/dL, BP: 117/76. started on Glipizide. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 5.6,
+      "glucose": 240,
+      "blood_pressure": "117/76"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 45,
+    "patient_id": "D-1686",
+    "age": 35,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-07-28",
+    "medical_note": "Patient D-1686, 35yo Male with Prediabetes. Presents with tingling in hands/feet. HbA1c: 11.1%, Glucose: 228 mg/dL, BP: 126/76. added Sitagliptin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.1,
+      "glucose": 228,
+      "blood_pressure": "126/76"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 46,
+    "patient_id": "D-6467",
+    "age": 43,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-07-15",
+    "medical_note": "Patient D-6467, 43yo Male with Prediabetes. Presents with slow healing cuts. HbA1c: 11.9%, Glucose: 187 mg/dL, BP: 112/70. dosage increased for Sitagliptin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 11.9,
+      "glucose": 187,
+      "blood_pressure": "112/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 47,
+    "patient_id": "D-9830",
+    "age": 36,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-03-14",
+    "medical_note": "Patient D-9830, 36yo Male with Prediabetes. Presents with fatigue. HbA1c: 9.9%, Glucose: 267 mg/dL, BP: 147/85. added Metformin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 9.9,
+      "glucose": 267,
+      "blood_pressure": "147/85"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 48,
+    "patient_id": "D-2276",
+    "age": 73,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-10-03",
+    "medical_note": "Patient D-2276, 73yo Female with Prediabetes. Presents with tingling in hands/feet. HbA1c: 8.6%, Glucose: 116 mg/dL, BP: 127/85. added Sitagliptin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.6,
+      "glucose": 116,
+      "blood_pressure": "127/85"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 49,
+    "patient_id": "D-5620",
+    "age": 48,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-03-16",
+    "medical_note": "Patient D-5620, 48yo Male with Prediabetes. Presents with unexplained weight loss. HbA1c: 8.3%, Glucose: 176 mg/dL, BP: 150/83. switched to Sitagliptin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 8.3,
+      "glucose": 176,
+      "blood_pressure": "150/83"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 50,
+    "patient_id": "D-1858",
+    "age": 51,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-26",
+    "medical_note": "Patient D-1858, 51yo Male with Type 2 Diabetes. Presents with fatigue. HbA1c: 7.6%, Glucose: 204 mg/dL, BP: 149/84. started on Glipizide. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 7.6,
+      "glucose": 204,
+      "blood_pressure": "149/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 51,
+    "patient_id": "D-3031",
+    "age": 55,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-05-19",
+    "medical_note": "Patient D-3031, 55yo Male with Type 2 Diabetes. Presents with frequent urination. HbA1c: 5.7%, Glucose: 203 mg/dL, BP: 142/94. added Sitagliptin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 5.7,
+      "glucose": 203,
+      "blood_pressure": "142/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 52,
+    "patient_id": "D-1676",
+    "age": 50,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-11-13",
+    "medical_note": "Patient D-1676, 50yo Female with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 8.4%, Glucose: 117 mg/dL, BP: 115/82. dosage decreased for Metformin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.4,
+      "glucose": 117,
+      "blood_pressure": "115/82"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 53,
+    "patient_id": "D-5580",
+    "age": 26,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-09-05",
+    "medical_note": "Patient D-5580, 26yo Male with Type 1 Diabetes. Presents with frequent urination. HbA1c: 10.5%, Glucose: 181 mg/dL, BP: 138/70. discontinued Sitagliptin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 10.5,
+      "glucose": 181,
+      "blood_pressure": "138/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 54,
+    "patient_id": "D-1761",
+    "age": 30,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-12-05",
+    "medical_note": "Patient D-1761, 30yo Female with Prediabetes. Presents with slow healing cuts. HbA1c: 8.2%, Glucose: 164 mg/dL, BP: 150/95. started on Empagliflozin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.2,
+      "glucose": 164,
+      "blood_pressure": "150/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 55,
+    "patient_id": "D-8269",
+    "age": 36,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-04-30",
+    "medical_note": "Patient D-8269, 36yo Male with Type 1 Diabetes. Presents with fatigue. HbA1c: 9.6%, Glucose: 242 mg/dL, BP: 111/84. switched to Sitagliptin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 9.6,
+      "glucose": 242,
+      "blood_pressure": "111/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 56,
+    "patient_id": "D-8356",
+    "age": 63,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-06-22",
+    "medical_note": "Patient D-8356, 63yo Female with Prediabetes. Presents with tingling in hands/feet. HbA1c: 7.7%, Glucose: 221 mg/dL, BP: 143/77. added Insulin Glargine. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.7,
+      "glucose": 221,
+      "blood_pressure": "143/77"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 57,
+    "patient_id": "D-8316",
+    "age": 58,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-11-09",
+    "medical_note": "Patient D-8316, 58yo Male with Type 1 Diabetes. Presents with blurred vision. HbA1c: 9.7%, Glucose: 194 mg/dL, BP: 114/89. dosage decreased for Insulin Glargine. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 9.7,
+      "glucose": 194,
+      "blood_pressure": "114/89"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 58,
+    "patient_id": "D-2387",
+    "age": 31,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-14",
+    "medical_note": "Patient D-2387, 31yo Female with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 9.7%, Glucose: 165 mg/dL, BP: 120/89. dosage decreased for Empagliflozin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 9.7,
+      "glucose": 165,
+      "blood_pressure": "120/89"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 59,
+    "patient_id": "D-8828",
+    "age": 60,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-02-04",
+    "medical_note": "Patient D-8828, 60yo Female with Type 2 Diabetes. Presents with frequent urination. HbA1c: 11.3%, Glucose: 218 mg/dL, BP: 132/72. discontinued Insulin Glargine. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.3,
+      "glucose": 218,
+      "blood_pressure": "132/72"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 60,
+    "patient_id": "D-5997",
+    "age": 79,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-03-08",
+    "medical_note": "Patient D-5997, 79yo Male with Prediabetes. Presents with unexplained weight loss. HbA1c: 11.7%, Glucose: 120 mg/dL, BP: 124/70. switched to Empagliflozin. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 11.7,
+      "glucose": 120,
+      "blood_pressure": "124/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 61,
+    "patient_id": "D-8828",
+    "age": 34,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-04-11",
+    "medical_note": "Patient D-8828, 34yo Male with Type 1 Diabetes. Presents with fatigue. HbA1c: 9.4%, Glucose: 291 mg/dL, BP: 140/73. added Sitagliptin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 9.4,
+      "glucose": 291,
+      "blood_pressure": "140/73"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 62,
+    "patient_id": "D-5389",
+    "age": 35,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-09-20",
+    "medical_note": "Patient D-5389, 35yo Female with Prediabetes. Presents with slow healing cuts. HbA1c: 7.1%, Glucose: 246 mg/dL, BP: 130/93. switched to Sitagliptin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.1,
+      "glucose": 246,
+      "blood_pressure": "130/93"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 63,
+    "patient_id": "D-1582",
+    "age": 44,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-08-23",
+    "medical_note": "Patient D-1582, 44yo Male with Prediabetes. Presents with frequent urination. HbA1c: 9.1%, Glucose: 157 mg/dL, BP: 140/83. dosage decreased for Sitagliptin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 9.1,
+      "glucose": 157,
+      "blood_pressure": "140/83"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 64,
+    "patient_id": "D-6346",
+    "age": 60,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-09-10",
+    "medical_note": "Patient D-6346, 60yo Male with Prediabetes. Presents with tingling in hands/feet. HbA1c: 8.2%, Glucose: 113 mg/dL, BP: 118/90. added Empagliflozin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 8.2,
+      "glucose": 113,
+      "blood_pressure": "118/90"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 65,
+    "patient_id": "D-8828",
+    "age": 79,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-07",
+    "medical_note": "Patient D-8828, 79yo Male with Type 1 Diabetes. Presents with tingling in hands/feet. HbA1c: 10.6%, Glucose: 133 mg/dL, BP: 134/74. discontinued Insulin Glargine. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 10.6,
+      "glucose": 133,
+      "blood_pressure": "134/74"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 66,
+    "patient_id": "D-1582",
+    "age": 66,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-01-15",
+    "medical_note": "Patient D-1582, 66yo Male with Prediabetes. Presents with unexplained weight loss. HbA1c: 10.1%, Glucose: 246 mg/dL, BP: 149/91. discontinued Empagliflozin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 10.1,
+      "glucose": 246,
+      "blood_pressure": "149/91"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 67,
+    "patient_id": "D-6029",
+    "age": 73,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-02-12",
+    "medical_note": "Patient D-6029, 73yo Female with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 11.4%, Glucose: 157 mg/dL, BP: 149/72. switched to Empagliflozin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.4,
+      "glucose": 157,
+      "blood_pressure": "149/72"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 68,
+    "patient_id": "D-3031",
+    "age": 60,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-11-22",
+    "medical_note": "Patient D-3031, 60yo Female with Type 2 Diabetes. Presents with fatigue. HbA1c: 7.3%, Glucose: 233 mg/dL, BP: 139/95. switched to Sitagliptin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 7.3,
+      "glucose": 233,
+      "blood_pressure": "139/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 69,
+    "patient_id": "D-1059",
+    "age": 58,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-09-26",
+    "medical_note": "Patient D-1059, 58yo Male with Type 1 Diabetes. Presents with blurred vision. HbA1c: 7.1%, Glucose: 266 mg/dL, BP: 134/78. started on Metformin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.1,
+      "glucose": 266,
+      "blood_pressure": "134/78"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 70,
+    "patient_id": "D-3031",
+    "age": 28,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-01",
+    "medical_note": "Patient D-3031, 28yo Female with Type 1 Diabetes. Presents with tingling in hands/feet. HbA1c: 6.4%, Glucose: 255 mg/dL, BP: 138/80. started on Metformin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 6.4,
+      "glucose": 255,
+      "blood_pressure": "138/80"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 71,
+    "patient_id": "D-2857",
+    "age": 78,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-08-22",
+    "medical_note": "Patient D-2857, 78yo Male with Type 1 Diabetes. Presents with blurred vision. HbA1c: 11.3%, Glucose: 241 mg/dL, BP: 124/71. discontinued Empagliflozin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.3,
+      "glucose": 241,
+      "blood_pressure": "124/71"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 72,
+    "patient_id": "D-3031",
+    "age": 36,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-05-10",
+    "medical_note": "Patient D-3031, 36yo Female with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 8.7%, Glucose: 202 mg/dL, BP: 131/89. discontinued Metformin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.7,
+      "glucose": 202,
+      "blood_pressure": "131/89"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 73,
+    "patient_id": "D-5580",
+    "age": 60,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-02-06",
+    "medical_note": "Patient D-5580, 60yo Male with Type 1 Diabetes. Presents with blurred vision. HbA1c: 5.9%, Glucose: 266 mg/dL, BP: 115/88. added Empagliflozin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 5.9,
+      "glucose": 266,
+      "blood_pressure": "115/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 74,
+    "patient_id": "D-9202",
+    "age": 50,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-08-05",
+    "medical_note": "Patient D-9202, 50yo Male with Type 2 Diabetes. Presents with unexplained weight loss. HbA1c: 8.3%, Glucose: 245 mg/dL, BP: 127/72. dosage decreased for Metformin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.3,
+      "glucose": 245,
+      "blood_pressure": "127/72"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 75,
+    "patient_id": "D-8253",
+    "age": 40,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-10-11",
+    "medical_note": "Patient D-8253, 40yo Male with Prediabetes. Presents with unexplained weight loss. HbA1c: 11.5%, Glucose: 247 mg/dL, BP: 114/94. dosage increased for Glipizide. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.5,
+      "glucose": 247,
+      "blood_pressure": "114/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 76,
+    "patient_id": "D-6772",
+    "age": 47,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-08-04",
+    "medical_note": "Patient D-6772, 47yo Male with Prediabetes. Presents with excessive thirst. HbA1c: 8.3%, Glucose: 130 mg/dL, BP: 111/74. discontinued Glipizide. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.3,
+      "glucose": 130,
+      "blood_pressure": "111/74"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 77,
+    "patient_id": "D-8316",
+    "age": 30,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-03",
+    "medical_note": "Patient D-8316, 30yo Male with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 8.0%, Glucose: 135 mg/dL, BP: 127/84. dosage decreased for Insulin Glargine. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.0,
+      "glucose": 135,
+      "blood_pressure": "127/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 78,
+    "patient_id": "D-1858",
+    "age": 79,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-05-07",
+    "medical_note": "Patient D-1858, 79yo Female with Prediabetes. Presents with fatigue. HbA1c: 9.0%, Glucose: 298 mg/dL, BP: 122/92. discontinued Insulin Glargine. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 9.0,
+      "glucose": 298,
+      "blood_pressure": "122/92"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 79,
+    "patient_id": "D-6029",
+    "age": 36,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-01-11",
+    "medical_note": "Patient D-6029, 36yo Female with Type 2 Diabetes. Presents with blurred vision. HbA1c: 7.5%, Glucose: 169 mg/dL, BP: 135/73. added Empagliflozin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.5,
+      "glucose": 169,
+      "blood_pressure": "135/73"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 80,
+    "patient_id": "D-7479",
+    "age": 66,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-05-08",
+    "medical_note": "Patient D-7479, 66yo Female with Type 1 Diabetes. Presents with frequent urination. HbA1c: 8.4%, Glucose: 222 mg/dL, BP: 135/89. dosage increased for Sitagliptin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 8.4,
+      "glucose": 222,
+      "blood_pressure": "135/89"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 81,
+    "patient_id": "D-7295",
+    "age": 41,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-05-04",
+    "medical_note": "Patient D-7295, 41yo Female with Type 2 Diabetes. Presents with fatigue. HbA1c: 8.9%, Glucose: 184 mg/dL, BP: 141/74. dosage decreased for Insulin Glargine. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 8.9,
+      "glucose": 184,
+      "blood_pressure": "141/74"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 82,
+    "patient_id": "D-3912",
+    "age": 41,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-12-16",
+    "medical_note": "Patient D-3912, 41yo Female with Type 1 Diabetes. Presents with fatigue. HbA1c: 7.6%, Glucose: 129 mg/dL, BP: 130/95. added Sitagliptin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.6,
+      "glucose": 129,
+      "blood_pressure": "130/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 83,
+    "patient_id": "D-2423",
+    "age": 44,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-04-05",
+    "medical_note": "Patient D-2423, 44yo Male with Prediabetes. Presents with tingling in hands/feet. HbA1c: 9.1%, Glucose: 110 mg/dL, BP: 150/79. discontinued Empagliflozin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 9.1,
+      "glucose": 110,
+      "blood_pressure": "150/79"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 84,
+    "patient_id": "D-7273",
+    "age": 53,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-06-13",
+    "medical_note": "Patient D-7273, 53yo Male with Type 1 Diabetes. Presents with excessive thirst. HbA1c: 9.3%, Glucose: 249 mg/dL, BP: 148/83. started on Metformin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 9.3,
+      "glucose": 249,
+      "blood_pressure": "148/83"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 85,
+    "patient_id": "D-9202",
+    "age": 51,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-11-12",
+    "medical_note": "Patient D-9202, 51yo Male with Type 2 Diabetes. Presents with frequent urination. HbA1c: 11.7%, Glucose: 115 mg/dL, BP: 146/77. dosage decreased for Insulin Glargine. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 11.7,
+      "glucose": 115,
+      "blood_pressure": "146/77"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 86,
+    "patient_id": "D-9629",
+    "age": 77,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-10-01",
+    "medical_note": "Patient D-9629, 77yo Female with Type 1 Diabetes. Presents with excessive thirst. HbA1c: 6.0%, Glucose: 110 mg/dL, BP: 144/92. started on Empagliflozin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.0,
+      "glucose": 110,
+      "blood_pressure": "144/92"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 87,
+    "patient_id": "D-8269",
+    "age": 40,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-09-08",
+    "medical_note": "Patient D-8269, 40yo Female with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 11.7%, Glucose: 160 mg/dL, BP: 122/92. discontinued Insulin Glargine. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.7,
+      "glucose": 160,
+      "blood_pressure": "122/92"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 88,
+    "patient_id": "D-8210",
+    "age": 76,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-05-18",
+    "medical_note": "Patient D-8210, 76yo Male with Type 2 Diabetes. Presents with blurred vision. HbA1c: 10.7%, Glucose: 124 mg/dL, BP: 150/72. added Metformin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.7,
+      "glucose": 124,
+      "blood_pressure": "150/72"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 89,
+    "patient_id": "D-6346",
+    "age": 26,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-12-06",
+    "medical_note": "Patient D-6346, 26yo Male with Prediabetes. Presents with tingling in hands/feet. HbA1c: 7.7%, Glucose: 255 mg/dL, BP: 144/71. dosage decreased for Sitagliptin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.7,
+      "glucose": 255,
+      "blood_pressure": "144/71"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 90,
+    "patient_id": "D-3031",
+    "age": 76,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-08-11",
+    "medical_note": "Patient D-3031, 76yo Male with Prediabetes. Presents with excessive thirst. HbA1c: 10.9%, Glucose: 174 mg/dL, BP: 135/75. dosage increased for Glipizide. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.9,
+      "glucose": 174,
+      "blood_pressure": "135/75"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 91,
+    "patient_id": "D-1448",
+    "age": 39,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-05-12",
+    "medical_note": "Patient D-1448, 39yo Male with Type 2 Diabetes. Presents with fatigue. HbA1c: 7.7%, Glucose: 157 mg/dL, BP: 125/87. dosage decreased for Sitagliptin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.7,
+      "glucose": 157,
+      "blood_pressure": "125/87"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 92,
+    "patient_id": "D-1059",
+    "age": 37,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-11-22",
+    "medical_note": "Patient D-1059, 37yo Male with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 7.7%, Glucose: 221 mg/dL, BP: 132/79. dosage increased for Metformin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.7,
+      "glucose": 221,
+      "blood_pressure": "132/79"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 93,
+    "patient_id": "D-1448",
+    "age": 30,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-06-25",
+    "medical_note": "Patient D-1448, 30yo Female with Type 1 Diabetes. Presents with blurred vision. HbA1c: 11.8%, Glucose: 251 mg/dL, BP: 116/86. switched to Glipizide. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 11.8,
+      "glucose": 251,
+      "blood_pressure": "116/86"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 94,
+    "patient_id": "D-1686",
+    "age": 40,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-06-16",
+    "medical_note": "Patient D-1686, 40yo Female with Type 2 Diabetes. Presents with blurred vision. HbA1c: 8.3%, Glucose: 162 mg/dL, BP: 140/91. dosage increased for Empagliflozin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 8.3,
+      "glucose": 162,
+      "blood_pressure": "140/91"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 95,
+    "patient_id": "D-4734",
+    "age": 51,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-17",
+    "medical_note": "Patient D-4734, 51yo Male with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 6.8%, Glucose: 291 mg/dL, BP: 137/71. started on Glipizide. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.8,
+      "glucose": 291,
+      "blood_pressure": "137/71"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 96,
+    "patient_id": "D-1225",
+    "age": 25,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-12-09",
+    "medical_note": "Patient D-1225, 25yo Female with Prediabetes. Presents with fatigue. HbA1c: 6.5%, Glucose: 281 mg/dL, BP: 149/87. started on Sitagliptin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 6.5,
+      "glucose": 281,
+      "blood_pressure": "149/87"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 97,
+    "patient_id": "D-6021",
+    "age": 73,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-07-10",
+    "medical_note": "Patient D-6021, 73yo Male with Prediabetes. Presents with blurred vision. HbA1c: 6.8%, Glucose: 147 mg/dL, BP: 146/84. started on Sitagliptin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 6.8,
+      "glucose": 147,
+      "blood_pressure": "146/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 98,
+    "patient_id": "D-1059",
+    "age": 52,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-10-08",
+    "medical_note": "Patient D-1059, 52yo Female with Prediabetes. Presents with unexplained weight loss. HbA1c: 10.5%, Glucose: 191 mg/dL, BP: 112/76. dosage increased for Insulin Glargine. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.5,
+      "glucose": 191,
+      "blood_pressure": "112/76"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 99,
+    "patient_id": "D-8210",
+    "age": 63,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-09-14",
+    "medical_note": "Patient D-8210, 63yo Female with Prediabetes. Presents with blurred vision. HbA1c: 11.6%, Glucose: 125 mg/dL, BP: 146/88. dosage increased for Insulin Glargine. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 11.6,
+      "glucose": 125,
+      "blood_pressure": "146/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 100,
+    "patient_id": "D-2276",
+    "age": 35,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-09-24",
+    "medical_note": "Patient D-2276, 35yo Male with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 7.1%, Glucose: 284 mg/dL, BP: 116/90. dosage increased for Glipizide. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 7.1,
+      "glucose": 284,
+      "blood_pressure": "116/90"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 101,
+    "patient_id": "D-1686",
+    "age": 60,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-04-20",
+    "medical_note": "Patient D-1686, 60yo Female with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 6.5%, Glucose: 277 mg/dL, BP: 139/95. started on Metformin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 6.5,
+      "glucose": 277,
+      "blood_pressure": "139/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 102,
+    "patient_id": "D-3912",
+    "age": 31,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-01-02",
+    "medical_note": "Patient D-3912, 31yo Male with Type 1 Diabetes. Presents with fatigue. HbA1c: 6.1%, Glucose: 113 mg/dL, BP: 128/94. dosage increased for Insulin Glargine. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 6.1,
+      "glucose": 113,
+      "blood_pressure": "128/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 103,
+    "patient_id": "D-1761",
+    "age": 55,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-05-22",
+    "medical_note": "Patient D-1761, 55yo Female with Type 2 Diabetes. Presents with blurred vision. HbA1c: 7.3%, Glucose: 299 mg/dL, BP: 124/72. discontinued Insulin Glargine. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.3,
+      "glucose": 299,
+      "blood_pressure": "124/72"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 104,
+    "patient_id": "D-8356",
+    "age": 72,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-09-10",
+    "medical_note": "Patient D-8356, 72yo Female with Type 1 Diabetes. Presents with excessive thirst. HbA1c: 7.1%, Glucose: 177 mg/dL, BP: 134/93. added Metformin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.1,
+      "glucose": 177,
+      "blood_pressure": "134/93"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 105,
+    "patient_id": "D-8356",
+    "age": 29,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-08-28",
+    "medical_note": "Patient D-8356, 29yo Female with Type 1 Diabetes. Presents with fatigue. HbA1c: 11.1%, Glucose: 279 mg/dL, BP: 119/92. dosage increased for Glipizide. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 11.1,
+      "glucose": 279,
+      "blood_pressure": "119/92"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 106,
+    "patient_id": "D-5193",
+    "age": 43,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-09-21",
+    "medical_note": "Patient D-5193, 43yo Female with Type 1 Diabetes. Presents with tingling in hands/feet. HbA1c: 6.8%, Glucose: 160 mg/dL, BP: 140/88. started on Empagliflozin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.8,
+      "glucose": 160,
+      "blood_pressure": "140/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 107,
+    "patient_id": "D-3972",
+    "age": 41,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-02-02",
+    "medical_note": "Patient D-3972, 41yo Male with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 11.3%, Glucose: 141 mg/dL, BP: 110/73. added Sitagliptin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.3,
+      "glucose": 141,
+      "blood_pressure": "110/73"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 108,
+    "patient_id": "D-2423",
+    "age": 62,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-02-08",
+    "medical_note": "Patient D-2423, 62yo Female with Prediabetes. Presents with blurred vision. HbA1c: 10.8%, Glucose: 110 mg/dL, BP: 112/90. dosage decreased for Insulin Glargine. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 10.8,
+      "glucose": 110,
+      "blood_pressure": "112/90"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 109,
+    "patient_id": "D-2387",
+    "age": 54,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-19",
+    "medical_note": "Patient D-2387, 54yo Male with Type 2 Diabetes. Presents with unexplained weight loss. HbA1c: 10.8%, Glucose: 157 mg/dL, BP: 111/89. started on Insulin Glargine. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 10.8,
+      "glucose": 157,
+      "blood_pressure": "111/89"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 110,
+    "patient_id": "D-6029",
+    "age": 52,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-08-27",
+    "medical_note": "Patient D-6029, 52yo Female with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 7.4%, Glucose: 187 mg/dL, BP: 131/86. dosage increased for Metformin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.4,
+      "glucose": 187,
+      "blood_pressure": "131/86"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 111,
+    "patient_id": "D-9867",
+    "age": 29,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-02-18",
+    "medical_note": "Patient D-9867, 29yo Female with Type 2 Diabetes. Presents with unexplained weight loss. HbA1c: 5.6%, Glucose: 237 mg/dL, BP: 147/70. dosage decreased for Sitagliptin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 5.6,
+      "glucose": 237,
+      "blood_pressure": "147/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 112,
+    "patient_id": "D-8210",
+    "age": 55,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-06-22",
+    "medical_note": "Patient D-8210, 55yo Female with Type 1 Diabetes. Presents with frequent urination. HbA1c: 10.8%, Glucose: 204 mg/dL, BP: 114/71. dosage increased for Metformin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 10.8,
+      "glucose": 204,
+      "blood_pressure": "114/71"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 113,
+    "patient_id": "D-1676",
+    "age": 73,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-11-03",
+    "medical_note": "Patient D-1676, 73yo Male with Prediabetes. Presents with unexplained weight loss. HbA1c: 7.3%, Glucose: 118 mg/dL, BP: 117/94. dosage decreased for Insulin Glargine. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 7.3,
+      "glucose": 118,
+      "blood_pressure": "117/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 114,
+    "patient_id": "D-3912",
+    "age": 66,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-21",
+    "medical_note": "Patient D-3912, 66yo Male with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 10.7%, Glucose: 163 mg/dL, BP: 148/84. added Empagliflozin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 10.7,
+      "glucose": 163,
+      "blood_pressure": "148/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 115,
+    "patient_id": "D-8210",
+    "age": 49,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-02-09",
+    "medical_note": "Patient D-8210, 49yo Male with Type 1 Diabetes. Presents with excessive thirst. HbA1c: 10.1%, Glucose: 290 mg/dL, BP: 110/70. added Glipizide. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 10.1,
+      "glucose": 290,
+      "blood_pressure": "110/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 116,
+    "patient_id": "D-5193",
+    "age": 44,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-12-13",
+    "medical_note": "Patient D-5193, 44yo Male with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 10.6%, Glucose: 266 mg/dL, BP: 146/76. discontinued Metformin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.6,
+      "glucose": 266,
+      "blood_pressure": "146/76"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 117,
+    "patient_id": "D-8210",
+    "age": 48,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-29",
+    "medical_note": "Patient D-8210, 48yo Male with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 11.7%, Glucose: 158 mg/dL, BP: 116/93. dosage increased for Insulin Glargine. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.7,
+      "glucose": 158,
+      "blood_pressure": "116/93"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 118,
+    "patient_id": "D-6346",
+    "age": 56,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-11-22",
+    "medical_note": "Patient D-6346, 56yo Male with Type 1 Diabetes. Presents with excessive thirst. HbA1c: 8.4%, Glucose: 127 mg/dL, BP: 115/91. dosage increased for Insulin Glargine. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.4,
+      "glucose": 127,
+      "blood_pressure": "115/91"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 119,
+    "patient_id": "D-3912",
+    "age": 76,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-02-12",
+    "medical_note": "Patient D-3912, 76yo Female with Type 2 Diabetes. Presents with blurred vision. HbA1c: 11.5%, Glucose: 112 mg/dL, BP: 113/91. started on Insulin Glargine. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.5,
+      "glucose": 112,
+      "blood_pressure": "113/91"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 120,
+    "patient_id": "D-6021",
+    "age": 26,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-05-15",
+    "medical_note": "Patient D-6021, 26yo Male with Type 1 Diabetes. Presents with unexplained weight loss. HbA1c: 10.2%, Glucose: 229 mg/dL, BP: 138/77. dosage decreased for Insulin Glargine. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.2,
+      "glucose": 229,
+      "blood_pressure": "138/77"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 121,
+    "patient_id": "D-3441",
+    "age": 78,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-06-23",
+    "medical_note": "Patient D-3441, 78yo Female with Prediabetes. Presents with tingling in hands/feet. HbA1c: 10.1%, Glucose: 275 mg/dL, BP: 120/90. discontinued Sitagliptin. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 10.1,
+      "glucose": 275,
+      "blood_pressure": "120/90"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 122,
+    "patient_id": "D-1225",
+    "age": 36,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-08",
+    "medical_note": "Patient D-1225, 36yo Female with Type 1 Diabetes. Presents with excessive thirst. HbA1c: 9.9%, Glucose: 231 mg/dL, BP: 148/85. dosage increased for Sitagliptin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 9.9,
+      "glucose": 231,
+      "blood_pressure": "148/85"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 123,
+    "patient_id": "D-8828",
+    "age": 58,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-09-04",
+    "medical_note": "Patient D-8828, 58yo Female with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 8.3%, Glucose: 121 mg/dL, BP: 124/90. switched to Metformin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.3,
+      "glucose": 121,
+      "blood_pressure": "124/90"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 124,
+    "patient_id": "D-7040",
+    "age": 53,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-18",
+    "medical_note": "Patient D-7040, 53yo Male with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 9.2%, Glucose: 248 mg/dL, BP: 148/95. dosage increased for Glipizide. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 9.2,
+      "glucose": 248,
+      "blood_pressure": "148/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 125,
+    "patient_id": "D-8269",
+    "age": 44,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-08-04",
+    "medical_note": "Patient D-8269, 44yo Male with Type 1 Diabetes. Presents with unexplained weight loss. HbA1c: 10.4%, Glucose: 144 mg/dL, BP: 123/77. added Metformin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 10.4,
+      "glucose": 144,
+      "blood_pressure": "123/77"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 126,
+    "patient_id": "D-9629",
+    "age": 43,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-10-08",
+    "medical_note": "Patient D-9629, 43yo Female with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 8.4%, Glucose: 151 mg/dL, BP: 147/81. dosage decreased for Glipizide. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.4,
+      "glucose": 151,
+      "blood_pressure": "147/81"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 127,
+    "patient_id": "D-6893",
+    "age": 53,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-15",
+    "medical_note": "Patient D-6893, 53yo Male with Type 1 Diabetes. Presents with fatigue. HbA1c: 7.6%, Glucose: 281 mg/dL, BP: 111/87. started on Empagliflozin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.6,
+      "glucose": 281,
+      "blood_pressure": "111/87"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 128,
+    "patient_id": "D-3031",
+    "age": 39,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-05",
+    "medical_note": "Patient D-3031, 39yo Female with Type 1 Diabetes. Presents with blurred vision. HbA1c: 8.7%, Glucose: 252 mg/dL, BP: 110/80. added Insulin Glargine. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.7,
+      "glucose": 252,
+      "blood_pressure": "110/80"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 129,
+    "patient_id": "D-1676",
+    "age": 26,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-03-10",
+    "medical_note": "Patient D-1676, 26yo Female with Prediabetes. Presents with fatigue. HbA1c: 10.3%, Glucose: 238 mg/dL, BP: 139/71. discontinued Metformin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.3,
+      "glucose": 238,
+      "blood_pressure": "139/71"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 130,
+    "patient_id": "D-8188",
+    "age": 39,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-08-21",
+    "medical_note": "Patient D-8188, 39yo Female with Type 1 Diabetes. Presents with blurred vision. HbA1c: 7.3%, Glucose: 179 mg/dL, BP: 145/79. dosage decreased for Sitagliptin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.3,
+      "glucose": 179,
+      "blood_pressure": "145/79"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 131,
+    "patient_id": "D-8356",
+    "age": 71,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-09-02",
+    "medical_note": "Patient D-8356, 71yo Male with Prediabetes. Presents with slow healing cuts. HbA1c: 7.1%, Glucose: 285 mg/dL, BP: 116/85. added Insulin Glargine. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.1,
+      "glucose": 285,
+      "blood_pressure": "116/85"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 132,
+    "patient_id": "D-5389",
+    "age": 33,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-03-13",
+    "medical_note": "Patient D-5389, 33yo Female with Prediabetes. Presents with slow healing cuts. HbA1c: 8.5%, Glucose: 256 mg/dL, BP: 134/88. added Empagliflozin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.5,
+      "glucose": 256,
+      "blood_pressure": "134/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 133,
+    "patient_id": "D-1858",
+    "age": 62,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-10",
+    "medical_note": "Patient D-1858, 62yo Female with Type 2 Diabetes. Presents with unexplained weight loss. HbA1c: 7.7%, Glucose: 286 mg/dL, BP: 127/79. dosage decreased for Insulin Glargine. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.7,
+      "glucose": 286,
+      "blood_pressure": "127/79"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 134,
+    "patient_id": "D-8828",
+    "age": 72,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-07-12",
+    "medical_note": "Patient D-8828, 72yo Male with Prediabetes. Presents with unexplained weight loss. HbA1c: 6.2%, Glucose: 287 mg/dL, BP: 147/83. dosage decreased for Empagliflozin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 6.2,
+      "glucose": 287,
+      "blood_pressure": "147/83"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 135,
+    "patient_id": "D-8316",
+    "age": 42,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-12-11",
+    "medical_note": "Patient D-8316, 42yo Female with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 8.0%, Glucose: 186 mg/dL, BP: 137/70. switched to Glipizide. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.0,
+      "glucose": 186,
+      "blood_pressure": "137/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 136,
+    "patient_id": "D-7295",
+    "age": 59,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-06-27",
+    "medical_note": "Patient D-7295, 59yo Female with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 6.0%, Glucose: 262 mg/dL, BP: 129/93. switched to Glipizide. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.0,
+      "glucose": 262,
+      "blood_pressure": "129/93"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 137,
+    "patient_id": "D-1448",
+    "age": 68,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-12-10",
+    "medical_note": "Patient D-1448, 68yo Male with Prediabetes. Presents with slow healing cuts. HbA1c: 5.9%, Glucose: 245 mg/dL, BP: 141/74. started on Glipizide. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 5.9,
+      "glucose": 245,
+      "blood_pressure": "141/74"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 138,
+    "patient_id": "D-9881",
+    "age": 69,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-11-20",
+    "medical_note": "Patient D-9881, 69yo Male with Prediabetes. Presents with slow healing cuts. HbA1c: 10.1%, Glucose: 188 mg/dL, BP: 135/95. added Insulin Glargine. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.1,
+      "glucose": 188,
+      "blood_pressure": "135/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 139,
+    "patient_id": "D-5620",
+    "age": 52,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-05-25",
+    "medical_note": "Patient D-5620, 52yo Female with Type 1 Diabetes. Presents with tingling in hands/feet. HbA1c: 6.5%, Glucose: 164 mg/dL, BP: 126/88. dosage decreased for Sitagliptin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 6.5,
+      "glucose": 164,
+      "blood_pressure": "126/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 140,
+    "patient_id": "D-6893",
+    "age": 25,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-03-05",
+    "medical_note": "Patient D-6893, 25yo Male with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 5.7%, Glucose: 252 mg/dL, BP: 150/77. dosage increased for Empagliflozin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 5.7,
+      "glucose": 252,
+      "blood_pressure": "150/77"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 141,
+    "patient_id": "D-5997",
+    "age": 38,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-10-27",
+    "medical_note": "Patient D-5997, 38yo Male with Type 2 Diabetes. Presents with blurred vision. HbA1c: 9.7%, Glucose: 277 mg/dL, BP: 138/84. switched to Glipizide. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 9.7,
+      "glucose": 277,
+      "blood_pressure": "138/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 142,
+    "patient_id": "D-9202",
+    "age": 48,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-02-06",
+    "medical_note": "Patient D-9202, 48yo Male with Prediabetes. Presents with slow healing cuts. HbA1c: 8.2%, Glucose: 210 mg/dL, BP: 135/75. dosage increased for Sitagliptin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.2,
+      "glucose": 210,
+      "blood_pressure": "135/75"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 143,
+    "patient_id": "D-1448",
+    "age": 75,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-05-19",
+    "medical_note": "Patient D-1448, 75yo Female with Prediabetes. Presents with excessive thirst. HbA1c: 6.9%, Glucose: 252 mg/dL, BP: 112/71. added Glipizide. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.9,
+      "glucose": 252,
+      "blood_pressure": "112/71"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 144,
+    "patient_id": "D-9830",
+    "age": 52,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-02-11",
+    "medical_note": "Patient D-9830, 52yo Male with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 11.2%, Glucose: 283 mg/dL, BP: 122/83. discontinued Sitagliptin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.2,
+      "glucose": 283,
+      "blood_pressure": "122/83"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 145,
+    "patient_id": "D-6772",
+    "age": 77,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-03-10",
+    "medical_note": "Patient D-6772, 77yo Male with Prediabetes. Presents with tingling in hands/feet. HbA1c: 10.8%, Glucose: 273 mg/dL, BP: 126/76. started on Empagliflozin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.8,
+      "glucose": 273,
+      "blood_pressure": "126/76"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 146,
+    "patient_id": "D-6772",
+    "age": 65,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-12-20",
+    "medical_note": "Patient D-6772, 65yo Male with Type 1 Diabetes. Presents with fatigue. HbA1c: 11.7%, Glucose: 245 mg/dL, BP: 140/92. dosage increased for Insulin Glargine. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.7,
+      "glucose": 245,
+      "blood_pressure": "140/92"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 147,
+    "patient_id": "D-7138",
+    "age": 34,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-02-23",
+    "medical_note": "Patient D-7138, 34yo Male with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 5.6%, Glucose: 218 mg/dL, BP: 145/84. started on Empagliflozin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 5.6,
+      "glucose": 218,
+      "blood_pressure": "145/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 148,
+    "patient_id": "D-1448",
+    "age": 52,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-02-13",
+    "medical_note": "Patient D-1448, 52yo Male with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 11.7%, Glucose: 162 mg/dL, BP: 125/93. discontinued Glipizide. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.7,
+      "glucose": 162,
+      "blood_pressure": "125/93"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 149,
+    "patient_id": "D-7273",
+    "age": 42,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-09-08",
+    "medical_note": "Patient D-7273, 42yo Female with Type 2 Diabetes. Presents with unexplained weight loss. HbA1c: 10.9%, Glucose: 243 mg/dL, BP: 145/84. started on Insulin Glargine. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.9,
+      "glucose": 243,
+      "blood_pressure": "145/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 150,
+    "patient_id": "D-2387",
+    "age": 60,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-01-09",
+    "medical_note": "Patient D-2387, 60yo Male with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 11.9%, Glucose: 264 mg/dL, BP: 136/78. dosage decreased for Metformin. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.9,
+      "glucose": 264,
+      "blood_pressure": "136/78"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 151,
+    "patient_id": "D-1761",
+    "age": 62,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-21",
+    "medical_note": "Patient D-1761, 62yo Male with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 11.5%, Glucose: 167 mg/dL, BP: 143/95. dosage decreased for Glipizide. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.5,
+      "glucose": 167,
+      "blood_pressure": "143/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 152,
+    "patient_id": "D-8316",
+    "age": 38,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-01-20",
+    "medical_note": "Patient D-8316, 38yo Male with Prediabetes. Presents with fatigue. HbA1c: 9.8%, Glucose: 240 mg/dL, BP: 127/94. dosage increased for Empagliflozin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 9.8,
+      "glucose": 240,
+      "blood_pressure": "127/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 153,
+    "patient_id": "D-3972",
+    "age": 74,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-10-05",
+    "medical_note": "Patient D-3972, 74yo Male with Prediabetes. Presents with slow healing cuts. HbA1c: 5.5%, Glucose: 253 mg/dL, BP: 134/87. started on Glipizide. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 5.5,
+      "glucose": 253,
+      "blood_pressure": "134/87"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 154,
+    "patient_id": "D-6505",
+    "age": 44,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-01-17",
+    "medical_note": "Patient D-6505, 44yo Male with Type 1 Diabetes. Presents with blurred vision. HbA1c: 8.5%, Glucose: 274 mg/dL, BP: 137/94. started on Sitagliptin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.5,
+      "glucose": 274,
+      "blood_pressure": "137/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 155,
+    "patient_id": "D-3972",
+    "age": 43,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-10-31",
+    "medical_note": "Patient D-3972, 43yo Female with Prediabetes. Presents with fatigue. HbA1c: 11.5%, Glucose: 247 mg/dL, BP: 147/91. added Empagliflozin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.5,
+      "glucose": 247,
+      "blood_pressure": "147/91"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 156,
+    "patient_id": "D-1225",
+    "age": 26,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-10-24",
+    "medical_note": "Patient D-1225, 26yo Male with Type 2 Diabetes. Presents with fatigue. HbA1c: 9.8%, Glucose: 213 mg/dL, BP: 149/83. dosage decreased for Insulin Glargine. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 9.8,
+      "glucose": 213,
+      "blood_pressure": "149/83"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 157,
+    "patient_id": "D-5997",
+    "age": 71,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-01-06",
+    "medical_note": "Patient D-5997, 71yo Male with Prediabetes. Presents with fatigue. HbA1c: 6.3%, Glucose: 111 mg/dL, BP: 122/80. started on Sitagliptin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 6.3,
+      "glucose": 111,
+      "blood_pressure": "122/80"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 158,
+    "patient_id": "D-1761",
+    "age": 36,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-06-24",
+    "medical_note": "Patient D-1761, 36yo Male with Prediabetes. Presents with blurred vision. HbA1c: 11.1%, Glucose: 225 mg/dL, BP: 139/87. discontinued Insulin Glargine. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 11.1,
+      "glucose": 225,
+      "blood_pressure": "139/87"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 159,
+    "patient_id": "D-1761",
+    "age": 68,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-09-23",
+    "medical_note": "Patient D-1761, 68yo Female with Type 1 Diabetes. Presents with unexplained weight loss. HbA1c: 11.2%, Glucose: 188 mg/dL, BP: 137/94. started on Metformin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.2,
+      "glucose": 188,
+      "blood_pressure": "137/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 160,
+    "patient_id": "D-5389",
+    "age": 41,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-09-18",
+    "medical_note": "Patient D-5389, 41yo Female with Prediabetes. Presents with slow healing cuts. HbA1c: 7.2%, Glucose: 296 mg/dL, BP: 139/72. discontinued Sitagliptin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.2,
+      "glucose": 296,
+      "blood_pressure": "139/72"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 161,
+    "patient_id": "D-2857",
+    "age": 70,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-08-19",
+    "medical_note": "Patient D-2857, 70yo Female with Type 2 Diabetes. Presents with fatigue. HbA1c: 9.9%, Glucose: 187 mg/dL, BP: 148/71. discontinued Metformin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 9.9,
+      "glucose": 187,
+      "blood_pressure": "148/71"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 162,
+    "patient_id": "D-2857",
+    "age": 56,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-07-08",
+    "medical_note": "Patient D-2857, 56yo Male with Type 1 Diabetes. Presents with unexplained weight loss. HbA1c: 7.7%, Glucose: 160 mg/dL, BP: 125/88. discontinued Sitagliptin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 7.7,
+      "glucose": 160,
+      "blood_pressure": "125/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 163,
+    "patient_id": "D-3972",
+    "age": 38,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-07-23",
+    "medical_note": "Patient D-3972, 38yo Female with Prediabetes. Presents with unexplained weight loss. HbA1c: 6.7%, Glucose: 219 mg/dL, BP: 127/78. discontinued Insulin Glargine. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 6.7,
+      "glucose": 219,
+      "blood_pressure": "127/78"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 164,
+    "patient_id": "D-5193",
+    "age": 52,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-08-24",
+    "medical_note": "Patient D-5193, 52yo Male with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 11.2%, Glucose: 298 mg/dL, BP: 140/80. started on Metformin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 11.2,
+      "glucose": 298,
+      "blood_pressure": "140/80"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 165,
+    "patient_id": "D-7295",
+    "age": 66,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2025-03-06",
+    "medical_note": "Patient D-7295, 66yo Female with Prediabetes. Presents with excessive thirst. HbA1c: 10.5%, Glucose: 268 mg/dL, BP: 112/88. dosage decreased for Insulin Glargine. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 10.5,
+      "glucose": 268,
+      "blood_pressure": "112/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 166,
+    "patient_id": "D-1225",
+    "age": 35,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-08-28",
+    "medical_note": "Patient D-1225, 35yo Female with Type 1 Diabetes. Presents with frequent urination. HbA1c: 7.6%, Glucose: 118 mg/dL, BP: 118/94. switched to Empagliflozin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.6,
+      "glucose": 118,
+      "blood_pressure": "118/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 167,
+    "patient_id": "D-6893",
+    "age": 48,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-03-29",
+    "medical_note": "Patient D-6893, 48yo Female with Type 2 Diabetes. Presents with blurred vision. HbA1c: 8.2%, Glucose: 292 mg/dL, BP: 140/93. switched to Empagliflozin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.2,
+      "glucose": 292,
+      "blood_pressure": "140/93"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 168,
+    "patient_id": "D-1858",
+    "age": 26,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-01",
+    "medical_note": "Patient D-1858, 26yo Female with Type 1 Diabetes. Presents with blurred vision. HbA1c: 8.9%, Glucose: 189 mg/dL, BP: 143/77. discontinued Insulin Glargine. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.9,
+      "glucose": 189,
+      "blood_pressure": "143/77"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 169,
+    "patient_id": "D-1686",
+    "age": 67,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-05-27",
+    "medical_note": "Patient D-1686, 67yo Female with Type 1 Diabetes. Presents with unexplained weight loss. HbA1c: 10.9%, Glucose: 281 mg/dL, BP: 111/88. added Empagliflozin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 10.9,
+      "glucose": 281,
+      "blood_pressure": "111/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 170,
+    "patient_id": "D-8356",
+    "age": 53,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2024-09-22",
+    "medical_note": "Patient D-8356, 53yo Male with Prediabetes. Presents with fatigue. HbA1c: 11.3%, Glucose: 203 mg/dL, BP: 145/84. discontinued Insulin Glargine. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.3,
+      "glucose": 203,
+      "blood_pressure": "145/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 171,
+    "patient_id": "D-2387",
+    "age": 54,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-12-23",
+    "medical_note": "Patient D-2387, 54yo Female with Type 2 Diabetes. Presents with unexplained weight loss. HbA1c: 10.8%, Glucose: 116 mg/dL, BP: 147/80. added Insulin Glargine. Recommended: glucose monitoring. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 10.8,
+      "glucose": 116,
+      "blood_pressure": "147/80"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 172,
+    "patient_id": "D-6021",
+    "age": 26,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-05-09",
+    "medical_note": "Patient D-6021, 26yo Male with Prediabetes. Presents with excessive thirst. HbA1c: 8.5%, Glucose: 230 mg/dL, BP: 143/93. dosage increased for Glipizide. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.5,
+      "glucose": 230,
+      "blood_pressure": "143/93"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 173,
+    "patient_id": "D-9629",
+    "age": 39,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-10-15",
+    "medical_note": "Patient D-9629, 39yo Male with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 7.2%, Glucose: 189 mg/dL, BP: 111/88. dosage increased for Sitagliptin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.2,
+      "glucose": 189,
+      "blood_pressure": "111/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 174,
+    "patient_id": "D-1059",
+    "age": 75,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-01-27",
+    "medical_note": "Patient D-1059, 75yo Male with Prediabetes. Presents with fatigue. HbA1c: 8.9%, Glucose: 259 mg/dL, BP: 147/70. dosage decreased for Empagliflozin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 8.9,
+      "glucose": 259,
+      "blood_pressure": "147/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 175,
+    "patient_id": "D-2423",
+    "age": 69,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-11-29",
+    "medical_note": "Patient D-2423, 69yo Female with Prediabetes. Presents with frequent urination. HbA1c: 7.7%, Glucose: 123 mg/dL, BP: 124/80. dosage decreased for Metformin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.7,
+      "glucose": 123,
+      "blood_pressure": "124/80"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 176,
+    "patient_id": "D-5620",
+    "age": 50,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-01-26",
+    "medical_note": "Patient D-5620, 50yo Male with Prediabetes. Presents with fatigue. HbA1c: 11.7%, Glucose: 198 mg/dL, BP: 140/93. added Metformin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 11.7,
+      "glucose": 198,
+      "blood_pressure": "140/93"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 177,
+    "patient_id": "D-9881",
+    "age": 27,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-06-21",
+    "medical_note": "Patient D-9881, 27yo Male with Type 2 Diabetes. Presents with tingling in hands/feet. HbA1c: 6.4%, Glucose: 290 mg/dL, BP: 139/94. dosage increased for Sitagliptin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 6.4,
+      "glucose": 290,
+      "blood_pressure": "139/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 178,
+    "patient_id": "D-5193",
+    "age": 77,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-08-17",
+    "medical_note": "Patient D-5193, 77yo Male with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 7.1%, Glucose: 227 mg/dL, BP: 121/73. discontinued Metformin. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 7.1,
+      "glucose": 227,
+      "blood_pressure": "121/73"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 179,
+    "patient_id": "D-3441",
+    "age": 68,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-07-02",
+    "medical_note": "Patient D-3441, 68yo Male with Prediabetes. Presents with frequent urination. HbA1c: 9.8%, Glucose: 288 mg/dL, BP: 145/94. discontinued Empagliflozin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 9.8,
+      "glucose": 288,
+      "blood_pressure": "145/94"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 180,
+    "patient_id": "D-6346",
+    "age": 48,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-06-28",
+    "medical_note": "Patient D-6346, 48yo Female with Type 1 Diabetes. Presents with excessive thirst. HbA1c: 9.4%, Glucose: 294 mg/dL, BP: 119/86. added Empagliflozin. Recommended: diet modification. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 9.4,
+      "glucose": 294,
+      "blood_pressure": "119/86"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 181,
+    "patient_id": "D-5193",
+    "age": 73,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-09-07",
+    "medical_note": "Patient D-5193, 73yo Female with Type 1 Diabetes. Presents with frequent urination. HbA1c: 7.6%, Glucose: 181 mg/dL, BP: 137/73. discontinued Metformin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 7.6,
+      "glucose": 181,
+      "blood_pressure": "137/73"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 182,
+    "patient_id": "D-8253",
+    "age": 52,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-02-14",
+    "medical_note": "Patient D-8253, 52yo Female with Type 2 Diabetes. Presents with fatigue. HbA1c: 10.0%, Glucose: 160 mg/dL, BP: 132/83. discontinued Sitagliptin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 10.0,
+      "glucose": 160,
+      "blood_pressure": "132/83"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 183,
+    "patient_id": "D-3441",
+    "age": 28,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-09-03",
+    "medical_note": "Patient D-3441, 28yo Female with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 6.6%, Glucose: 260 mg/dL, BP: 111/74. discontinued Sitagliptin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.6,
+      "glucose": 260,
+      "blood_pressure": "111/74"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 184,
+    "patient_id": "D-2423",
+    "age": 68,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-06-26",
+    "medical_note": "Patient D-2423, 68yo Female with Type 1 Diabetes. Presents with fatigue. HbA1c: 9.8%, Glucose: 178 mg/dL, BP: 119/82. switched to Empagliflozin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 9.8,
+      "glucose": 178,
+      "blood_pressure": "119/82"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 185,
+    "patient_id": "D-7479",
+    "age": 26,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-09",
+    "medical_note": "Patient D-7479, 26yo Male with Type 2 Diabetes. Presents with blurred vision. HbA1c: 7.3%, Glucose: 273 mg/dL, BP: 139/92. switched to Metformin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.3,
+      "glucose": 273,
+      "blood_pressure": "139/92"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 186,
+    "patient_id": "D-8316",
+    "age": 73,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-09-05",
+    "medical_note": "Patient D-8316, 73yo Female with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 5.5%, Glucose: 165 mg/dL, BP: 127/92. switched to Metformin. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 5.5,
+      "glucose": 165,
+      "blood_pressure": "127/92"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 187,
+    "patient_id": "D-3031",
+    "age": 52,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-04-09",
+    "medical_note": "Patient D-3031, 52yo Male with Type 1 Diabetes. Presents with tingling in hands/feet. HbA1c: 10.3%, Glucose: 250 mg/dL, BP: 128/88. started on Sitagliptin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 10.3,
+      "glucose": 250,
+      "blood_pressure": "128/88"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 188,
+    "patient_id": "D-8188",
+    "age": 58,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-11-13",
+    "medical_note": "Patient D-8188, 58yo Female with Prediabetes. Presents with tingling in hands/feet. HbA1c: 6.7%, Glucose: 158 mg/dL, BP: 124/82. dosage increased for Empagliflozin. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 6.7,
+      "glucose": 158,
+      "blood_pressure": "124/82"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 189,
+    "patient_id": "D-6029",
+    "age": 43,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-07-22",
+    "medical_note": "Patient D-6029, 43yo Female with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 6.7%, Glucose: 128 mg/dL, BP: 116/91. dosage decreased for Sitagliptin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.7,
+      "glucose": 128,
+      "blood_pressure": "116/91"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 190,
+    "patient_id": "D-5135",
+    "age": 27,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-03-30",
+    "medical_note": "Patient D-5135, 27yo Female with Type 2 Diabetes. Presents with frequent urination. HbA1c: 11.0%, Glucose: 197 mg/dL, BP: 145/75. switched to Insulin Glargine. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 11.0,
+      "glucose": 197,
+      "blood_pressure": "145/75"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 191,
+    "patient_id": "D-4734",
+    "age": 57,
+    "gender": "Female",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-03-25",
+    "medical_note": "Patient D-4734, 57yo Female with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 8.3%, Glucose: 132 mg/dL, BP: 140/80. started on Metformin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.3,
+      "glucose": 132,
+      "blood_pressure": "140/80"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 192,
+    "patient_id": "D-8109",
+    "age": 41,
+    "gender": "Female",
+    "condition": "Prediabetes",
+    "visit_date": "2024-12-02",
+    "medical_note": "Patient D-8109, 41yo Female with Prediabetes. Presents with excessive thirst. HbA1c: 9.7%, Glucose: 173 mg/dL, BP: 135/95. added Empagliflozin. Recommended: glucose monitoring. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 9.7,
+      "glucose": 173,
+      "blood_pressure": "135/95"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 193,
+    "patient_id": "D-5997",
+    "age": 25,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-04-27",
+    "medical_note": "Patient D-5997, 25yo Female with Type 2 Diabetes. Presents with blurred vision. HbA1c: 8.5%, Glucose: 299 mg/dL, BP: 114/70. switched to Metformin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 8.5,
+      "glucose": 299,
+      "blood_pressure": "114/70"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 194,
+    "patient_id": "D-1686",
+    "age": 48,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-10-11",
+    "medical_note": "Patient D-1686, 48yo Female with Type 2 Diabetes. Presents with blurred vision. HbA1c: 9.3%, Glucose: 287 mg/dL, BP: 141/76. switched to Sitagliptin. Recommended: exercise program. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 9.3,
+      "glucose": 287,
+      "blood_pressure": "141/76"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 195,
+    "patient_id": "D-4734",
+    "age": 31,
+    "gender": "Male",
+    "condition": "Prediabetes",
+    "visit_date": "2025-03-25",
+    "medical_note": "Patient D-4734, 31yo Male with Prediabetes. Presents with blurred vision. HbA1c: 7.5%, Glucose: 110 mg/dL, BP: 118/71. switched to Empagliflozin. Recommended: exercise program. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 7.5,
+      "glucose": 110,
+      "blood_pressure": "118/71"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 196,
+    "patient_id": "D-9881",
+    "age": 39,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2025-07-12",
+    "medical_note": "Patient D-9881, 39yo Male with Type 1 Diabetes. Presents with slow healing cuts. HbA1c: 9.4%, Glucose: 123 mg/dL, BP: 126/79. started on Insulin Glargine. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 9.4,
+      "glucose": 123,
+      "blood_pressure": "126/79"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 197,
+    "patient_id": "D-9830",
+    "age": 41,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-11-26",
+    "medical_note": "Patient D-9830, 41yo Female with Type 2 Diabetes. Presents with excessive thirst. HbA1c: 6.0%, Glucose: 122 mg/dL, BP: 129/77. started on Sitagliptin. Recommended: glucose monitoring. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 6.0,
+      "glucose": 122,
+      "blood_pressure": "129/77"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 198,
+    "patient_id": "D-9629",
+    "age": 27,
+    "gender": "Female",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2024-09-18",
+    "medical_note": "Patient D-9629, 27yo Female with Type 2 Diabetes. Presents with unexplained weight loss. HbA1c: 12.0%, Glucose: 236 mg/dL, BP: 117/86. started on Sitagliptin. Recommended: diet modification. Follow-up in 1 months.",
+    "lab_results": {
+      "HbA1c": 12.0,
+      "glucose": 236,
+      "blood_pressure": "117/86"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 199,
+    "patient_id": "D-1488",
+    "age": 75,
+    "gender": "Male",
+    "condition": "Type 2 Diabetes",
+    "visit_date": "2025-03-05",
+    "medical_note": "Patient D-1488, 75yo Male with Type 2 Diabetes. Presents with slow healing cuts. HbA1c: 6.2%, Glucose: 207 mg/dL, BP: 121/84. added Metformin. Recommended: exercise program. Follow-up in 2 months.",
+    "lab_results": {
+      "HbA1c": 6.2,
+      "glucose": 207,
+      "blood_pressure": "121/84"
+    },
+    "anonymized": true,
+    "synthetic": true
+  },
+  {
+    "record_id": 200,
+    "patient_id": "D-9629",
+    "age": 67,
+    "gender": "Male",
+    "condition": "Type 1 Diabetes",
+    "visit_date": "2024-11-03",
+    "medical_note": "Patient D-9629, 67yo Male with Type 1 Diabetes. Presents with unexplained weight loss. HbA1c: 8.2%, Glucose: 233 mg/dL, BP: 132/81. discontinued Sitagliptin. Recommended: diet modification. Follow-up in 3 months.",
+    "lab_results": {
+      "HbA1c": 8.2,
+      "glucose": 233,
+      "blood_pressure": "132/81"
+    },
+    "anonymized": true,
+    "synthetic": true
+  }
+]
